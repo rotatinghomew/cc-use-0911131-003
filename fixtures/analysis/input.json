@@ -1,0 +1,5061 @@
+{
+  "seed": 19,
+  "asset_revision": "asset-r3",
+  "final_cutoff": "2026-06-30",
+  "review_budget": 12,
+  "confirmed_item_ids": [
+    "i001"
+  ],
+  "items": [
+    {
+      "item_id": "i000",
+      "style_family": "f000",
+      "available_at": "2026-01-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 93.49,
+        "fabric": "cotton",
+        "price": 87.51,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i001",
+      "style_family": "f000",
+      "available_at": "2026-01-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 107.49,
+        "fabric": "cotton",
+        "price": 69.08,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i002",
+      "style_family": "f000",
+      "available_at": "2026-01-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 124.29,
+        "fabric": "cotton",
+        "price": 91.59,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i003",
+      "style_family": "f001",
+      "available_at": "2026-01-17",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 135.56,
+        "fabric": "wool",
+        "price": 134.21,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i004",
+      "style_family": "f001",
+      "available_at": "2026-01-17",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 164.96,
+        "fabric": "wool",
+        "price": 130.91,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i005",
+      "style_family": "f001",
+      "available_at": "2026-01-17",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 158.6,
+        "fabric": "wool",
+        "price": 142.95,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i006",
+      "style_family": "f002",
+      "available_at": "2026-01-18",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 200.51,
+        "fabric": "synthetic",
+        "price": 199.15,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i007",
+      "style_family": "f002",
+      "available_at": "2026-01-18",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 203.7,
+        "fabric": "synthetic",
+        "price": 183.36,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i008",
+      "style_family": "f002",
+      "available_at": "2026-01-18",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 203.04,
+        "fabric": "synthetic",
+        "price": 188.06,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i009",
+      "style_family": "f003",
+      "available_at": "2026-01-19",
+      "withdrawn_at": "2026-05-21",
+      "features": {
+        "weight": 111.85,
+        "fabric": "cotton",
+        "price": 81.14,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i010",
+      "style_family": "f003",
+      "available_at": "2026-01-19",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 107.37,
+        "fabric": "cotton",
+        "price": 91.32,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i011",
+      "style_family": "f003",
+      "available_at": "2026-01-19",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 87.26,
+        "fabric": "cotton",
+        "price": 91.19,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i012",
+      "style_family": "f004",
+      "available_at": "2026-01-20",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 152.29,
+        "fabric": "wool",
+        "price": 126.17,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i013",
+      "style_family": "f004",
+      "available_at": "2026-01-20",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 149.1,
+        "fabric": "wool",
+        "price": 144.47,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i014",
+      "style_family": "f004",
+      "available_at": "2026-01-20",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 180.01,
+        "fabric": "wool",
+        "price": 136.96,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i015",
+      "style_family": "f005",
+      "available_at": "2026-01-21",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 198.07,
+        "fabric": "synthetic",
+        "price": 193.18,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i016",
+      "style_family": "f005",
+      "available_at": "2026-01-21",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 222.93,
+        "fabric": "synthetic",
+        "price": 183.51,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i017",
+      "style_family": "f005",
+      "available_at": "2026-01-21",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 200.77,
+        "fabric": "synthetic",
+        "price": 196.24,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i018",
+      "style_family": "f006",
+      "available_at": "2026-01-22",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 93.06,
+        "fabric": "cotton",
+        "price": 83.88,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i019",
+      "style_family": "f006",
+      "available_at": "2026-01-22",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 110.71,
+        "fabric": "cotton",
+        "price": 88.78,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i020",
+      "style_family": "f006",
+      "available_at": "2026-01-22",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 89.08,
+        "fabric": "cotton",
+        "price": 82.94,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i021",
+      "style_family": "f007",
+      "available_at": "2026-01-23",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 175.0,
+        "fabric": "wool",
+        "price": 125.67,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i022",
+      "style_family": "f007",
+      "available_at": "2026-01-23",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 153.78,
+        "fabric": "wool",
+        "price": 144.33,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i023",
+      "style_family": "f007",
+      "available_at": "2026-01-23",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 145.52,
+        "fabric": "wool",
+        "price": 127.45,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i024",
+      "style_family": "f008",
+      "available_at": "2026-01-24",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 209.99,
+        "fabric": "synthetic",
+        "price": 199.09,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i025",
+      "style_family": "f008",
+      "available_at": "2026-01-24",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 207.32,
+        "fabric": "synthetic",
+        "price": 188.18,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i026",
+      "style_family": "f008",
+      "available_at": "2026-01-24",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 214.38,
+        "fabric": "synthetic",
+        "price": 188.82,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i027",
+      "style_family": "f009",
+      "available_at": "2026-01-25",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 124.51,
+        "fabric": "cotton",
+        "price": 79.07,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i028",
+      "style_family": "f009",
+      "available_at": "2026-01-25",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 75.5,
+        "fabric": "cotton",
+        "price": 82.73,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i029",
+      "style_family": "f009",
+      "available_at": "2026-01-25",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 122.34,
+        "fabric": "cotton",
+        "price": 75.58,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i030",
+      "style_family": "f010",
+      "available_at": "2026-01-26",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 173.18,
+        "fabric": "wool",
+        "price": 139.67,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i031",
+      "style_family": "f010",
+      "available_at": "2026-01-26",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 156.45,
+        "fabric": "wool",
+        "price": 139.66,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i032",
+      "style_family": "f010",
+      "available_at": "2026-01-26",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 165.75,
+        "fabric": "wool",
+        "price": 123.66,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i033",
+      "style_family": "f011",
+      "available_at": "2026-01-27",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 224.35,
+        "fabric": "synthetic",
+        "price": 199.66,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i034",
+      "style_family": "f011",
+      "available_at": "2026-01-27",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 230.94,
+        "fabric": "synthetic",
+        "price": 191.82,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i035",
+      "style_family": "f011",
+      "available_at": "2026-01-27",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 213.88,
+        "fabric": "synthetic",
+        "price": 199.81,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i036",
+      "style_family": "f012",
+      "available_at": "2026-01-28",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 110.38,
+        "fabric": "cotton",
+        "price": 71.91,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i037",
+      "style_family": "f012",
+      "available_at": "2026-01-28",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 85.55,
+        "fabric": "cotton",
+        "price": 78.89,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i038",
+      "style_family": "f012",
+      "available_at": "2026-01-28",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 98.93,
+        "fabric": "cotton",
+        "price": 83.77,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i039",
+      "style_family": "f013",
+      "available_at": "2026-01-29",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 135.96,
+        "fabric": "wool",
+        "price": 123.62,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i040",
+      "style_family": "f013",
+      "available_at": "2026-01-29",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 176.23,
+        "fabric": "wool",
+        "price": 139.84,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i041",
+      "style_family": "f013",
+      "available_at": "2026-01-29",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 164.71,
+        "fabric": "wool",
+        "price": 136.72,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i042",
+      "style_family": "f014",
+      "available_at": "2026-01-30",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 195.79,
+        "fabric": "synthetic",
+        "price": 197.08,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i043",
+      "style_family": "f014",
+      "available_at": "2026-01-30",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 202.04,
+        "fabric": "synthetic",
+        "price": 186.98,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i044",
+      "style_family": "f014",
+      "available_at": "2026-01-30",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 224.07,
+        "fabric": "synthetic",
+        "price": 192.96,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i045",
+      "style_family": "f015",
+      "available_at": "2026-01-31",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 119.77,
+        "fabric": "cotton",
+        "price": 68.89,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i046",
+      "style_family": "f015",
+      "available_at": "2026-01-31",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 97.73,
+        "fabric": "cotton",
+        "price": 77.13,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i047",
+      "style_family": "f015",
+      "available_at": "2026-01-31",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 110.34,
+        "fabric": "cotton",
+        "price": 69.3,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i048",
+      "style_family": "f016",
+      "available_at": "2026-02-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 159.03,
+        "fabric": "wool",
+        "price": 134.36,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i049",
+      "style_family": "f016",
+      "available_at": "2026-02-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 147.22,
+        "fabric": "wool",
+        "price": 133.53,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i050",
+      "style_family": "f016",
+      "available_at": "2026-02-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 167.14,
+        "fabric": "wool",
+        "price": 126.97,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i051",
+      "style_family": "f017",
+      "available_at": "2026-02-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 244.22,
+        "fabric": "synthetic",
+        "price": 197.0,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i052",
+      "style_family": "f017",
+      "available_at": "2026-02-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 237.44,
+        "fabric": "synthetic",
+        "price": 182.96,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i053",
+      "style_family": "f017",
+      "available_at": "2026-02-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 216.47,
+        "fabric": "synthetic",
+        "price": 200.61,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i054",
+      "style_family": "f018",
+      "available_at": "2026-02-03",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 100.62,
+        "fabric": "cotton",
+        "price": 87.01,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i055",
+      "style_family": "f018",
+      "available_at": "2026-02-03",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 113.44,
+        "fabric": "cotton",
+        "price": 70.15,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i056",
+      "style_family": "f018",
+      "available_at": "2026-02-03",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 88.05,
+        "fabric": "cotton",
+        "price": 79.61,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i057",
+      "style_family": "f019",
+      "available_at": "2026-02-04",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 173.44,
+        "fabric": "wool",
+        "price": 131.59,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i058",
+      "style_family": "f019",
+      "available_at": "2026-02-04",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 176.27,
+        "fabric": "wool",
+        "price": 129.79,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i059",
+      "style_family": "f019",
+      "available_at": "2026-02-04",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 152.94,
+        "fabric": "wool",
+        "price": 141.78,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i060",
+      "style_family": "f020",
+      "available_at": "2026-02-05",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 228.29,
+        "fabric": "synthetic",
+        "price": 186.77,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i061",
+      "style_family": "f020",
+      "available_at": "2026-02-05",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 205.82,
+        "fabric": "synthetic",
+        "price": 190.46,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i062",
+      "style_family": "f020",
+      "available_at": "2026-02-05",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 198.14,
+        "fabric": "synthetic",
+        "price": 201.19,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i063",
+      "style_family": "f021",
+      "available_at": "2026-02-06",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 105.9,
+        "fabric": "cotton",
+        "price": 87.03,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i064",
+      "style_family": "f021",
+      "available_at": "2026-02-06",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 101.73,
+        "fabric": "cotton",
+        "price": 83.71,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i065",
+      "style_family": "f021",
+      "available_at": "2026-02-06",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 97.01,
+        "fabric": "cotton",
+        "price": 80.18,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i066",
+      "style_family": "f022",
+      "available_at": "2026-02-07",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 173.19,
+        "fabric": "wool",
+        "price": 136.73,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i067",
+      "style_family": "f022",
+      "available_at": "2026-02-07",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 148.64,
+        "fabric": "wool",
+        "price": 133.31,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i068",
+      "style_family": "f022",
+      "available_at": "2026-02-07",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 179.99,
+        "fabric": "wool",
+        "price": 134.01,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i069",
+      "style_family": "f023",
+      "available_at": "2026-02-08",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 238.81,
+        "fabric": "synthetic",
+        "price": 184.75,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i070",
+      "style_family": "f023",
+      "available_at": "2026-02-08",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 201.14,
+        "fabric": "synthetic",
+        "price": 183.61,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i071",
+      "style_family": "f023",
+      "available_at": "2026-02-08",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 239.94,
+        "fabric": "synthetic",
+        "price": 184.21,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i072",
+      "style_family": "f024",
+      "available_at": "2026-02-09",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 88.34,
+        "fabric": "cotton",
+        "price": 79.33,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i073",
+      "style_family": "f024",
+      "available_at": "2026-02-09",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 118.55,
+        "fabric": "cotton",
+        "price": 86.37,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i074",
+      "style_family": "f024",
+      "available_at": "2026-02-09",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 118.59,
+        "fabric": "cotton",
+        "price": 89.64,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i075",
+      "style_family": "f025",
+      "available_at": "2026-02-10",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 156.86,
+        "fabric": "wool",
+        "price": 129.42,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i076",
+      "style_family": "f025",
+      "available_at": "2026-02-10",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 154.66,
+        "fabric": "wool",
+        "price": 138.25,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i077",
+      "style_family": "f025",
+      "available_at": "2026-02-10",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 159.22,
+        "fabric": "wool",
+        "price": 133.89,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i078",
+      "style_family": "f026",
+      "available_at": "2026-02-11",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 199.57,
+        "fabric": "synthetic",
+        "price": 186.75,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i079",
+      "style_family": "f026",
+      "available_at": "2026-02-11",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 207.74,
+        "fabric": "synthetic",
+        "price": 183.06,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i080",
+      "style_family": "f026",
+      "available_at": "2026-02-11",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 237.49,
+        "fabric": "synthetic",
+        "price": 182.05,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i081",
+      "style_family": "f027",
+      "available_at": "2026-02-12",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 109.12,
+        "fabric": "cotton",
+        "price": 82.71,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i082",
+      "style_family": "f027",
+      "available_at": "2026-02-12",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 84.29,
+        "fabric": "cotton",
+        "price": 78.64,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i083",
+      "style_family": "f027",
+      "available_at": "2026-02-12",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 118.04,
+        "fabric": "cotton",
+        "price": 74.31,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i084",
+      "style_family": "f028",
+      "available_at": "2026-02-13",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 147.7,
+        "fabric": "wool",
+        "price": 128.04,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i085",
+      "style_family": "f028",
+      "available_at": "2026-02-13",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 151.45,
+        "fabric": "wool",
+        "price": 129.75,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i086",
+      "style_family": "f028",
+      "available_at": "2026-02-13",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 173.93,
+        "fabric": "wool",
+        "price": 136.52,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i087",
+      "style_family": "f029",
+      "available_at": "2026-02-14",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 199.74,
+        "fabric": "synthetic",
+        "price": 179.67,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i088",
+      "style_family": "f029",
+      "available_at": "2026-02-14",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 215.4,
+        "fabric": "synthetic",
+        "price": 178.24,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i089",
+      "style_family": "f029",
+      "available_at": "2026-02-14",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 237.45,
+        "fabric": "synthetic",
+        "price": 185.34,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i090",
+      "style_family": "f030",
+      "available_at": "2026-02-15",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 95.4,
+        "fabric": "cotton",
+        "price": 75.73,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i091",
+      "style_family": "f030",
+      "available_at": "2026-02-15",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 95.28,
+        "fabric": "cotton",
+        "price": 87.8,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i092",
+      "style_family": "f030",
+      "available_at": "2026-02-15",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 94.87,
+        "fabric": "cotton",
+        "price": 85.83,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i093",
+      "style_family": "f031",
+      "available_at": "2026-02-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 167.58,
+        "fabric": "wool",
+        "price": 123.86,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i094",
+      "style_family": "f031",
+      "available_at": "2026-02-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 139.85,
+        "fabric": "wool",
+        "price": 146.28,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i095",
+      "style_family": "f031",
+      "available_at": "2026-02-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 182.66,
+        "fabric": "wool",
+        "price": 130.79,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i096",
+      "style_family": "f032",
+      "available_at": "2026-02-17",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 200.07,
+        "fabric": "synthetic",
+        "price": 191.54,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i097",
+      "style_family": "f032",
+      "available_at": "2026-02-17",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 217.66,
+        "fabric": "synthetic",
+        "price": 200.49,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i098",
+      "style_family": "f032",
+      "available_at": "2026-02-17",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 229.04,
+        "fabric": "synthetic",
+        "price": 198.4,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i099",
+      "style_family": "f033",
+      "available_at": "2026-02-18",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 84.62,
+        "fabric": "cotton",
+        "price": 68.47,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i100",
+      "style_family": "f033",
+      "available_at": "2026-02-18",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 96.99,
+        "fabric": "cotton",
+        "price": 89.77,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i101",
+      "style_family": "f033",
+      "available_at": "2026-02-18",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 117.49,
+        "fabric": "cotton",
+        "price": 81.59,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i102",
+      "style_family": "f034",
+      "available_at": "2026-02-19",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 169.86,
+        "fabric": "wool",
+        "price": 133.59,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i103",
+      "style_family": "f034",
+      "available_at": "2026-02-19",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 184.13,
+        "fabric": "wool",
+        "price": 141.77,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i104",
+      "style_family": "f034",
+      "available_at": "2026-02-19",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 176.86,
+        "fabric": "wool",
+        "price": 135.99,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i105",
+      "style_family": "f035",
+      "available_at": "2026-02-20",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 238.69,
+        "fabric": "synthetic",
+        "price": 199.43,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i106",
+      "style_family": "f035",
+      "available_at": "2026-02-20",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 209.61,
+        "fabric": "synthetic",
+        "price": 197.98,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i107",
+      "style_family": "f035",
+      "available_at": "2026-02-20",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 236.57,
+        "fabric": "synthetic",
+        "price": 190.56,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i108",
+      "style_family": "f036",
+      "available_at": "2026-02-21",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 116.09,
+        "fabric": "cotton",
+        "price": 76.82,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i109",
+      "style_family": "f036",
+      "available_at": "2026-02-21",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 108.26,
+        "fabric": "cotton",
+        "price": 68.29,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i110",
+      "style_family": "f036",
+      "available_at": "2026-02-21",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 120.68,
+        "fabric": "cotton",
+        "price": 88.14,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i111",
+      "style_family": "f037",
+      "available_at": "2026-02-22",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 150.15,
+        "fabric": "wool",
+        "price": 135.06,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i112",
+      "style_family": "f037",
+      "available_at": "2026-02-22",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 149.95,
+        "fabric": "wool",
+        "price": 141.94,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i113",
+      "style_family": "f037",
+      "available_at": "2026-02-22",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 168.4,
+        "fabric": "wool",
+        "price": 130.8,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i114",
+      "style_family": "f038",
+      "available_at": "2026-02-23",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 214.36,
+        "fabric": "synthetic",
+        "price": 192.26,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i115",
+      "style_family": "f038",
+      "available_at": "2026-02-23",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 237.29,
+        "fabric": "synthetic",
+        "price": 197.99,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i116",
+      "style_family": "f038",
+      "available_at": "2026-02-23",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 219.03,
+        "fabric": "synthetic",
+        "price": 187.91,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i117",
+      "style_family": "f039",
+      "available_at": "2026-02-24",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 124.16,
+        "fabric": "cotton",
+        "price": 85.23,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i118",
+      "style_family": "f039",
+      "available_at": "2026-02-24",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 104.45,
+        "fabric": "cotton",
+        "price": 89.27,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i119",
+      "style_family": "f039",
+      "available_at": "2026-02-24",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 98.08,
+        "fabric": "cotton",
+        "price": 81.98,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i120",
+      "style_family": "f040",
+      "available_at": "2026-02-25",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 183.2,
+        "fabric": "wool",
+        "price": 143.04,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i121",
+      "style_family": "f040",
+      "available_at": "2026-02-25",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 157.51,
+        "fabric": "wool",
+        "price": 146.56,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i122",
+      "style_family": "f040",
+      "available_at": "2026-02-25",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 180.54,
+        "fabric": "wool",
+        "price": 125.71,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i123",
+      "style_family": "f041",
+      "available_at": "2026-02-26",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 216.76,
+        "fabric": "synthetic",
+        "price": 195.46,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i124",
+      "style_family": "f041",
+      "available_at": "2026-02-26",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 197.69,
+        "fabric": "synthetic",
+        "price": 195.59,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i125",
+      "style_family": "f041",
+      "available_at": "2026-02-26",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 214.25,
+        "fabric": "synthetic",
+        "price": 196.71,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i126",
+      "style_family": "f042",
+      "available_at": "2026-02-27",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 90.77,
+        "fabric": "cotton",
+        "price": 81.08,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i127",
+      "style_family": "f042",
+      "available_at": "2026-02-27",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 91.55,
+        "fabric": "cotton",
+        "price": 74.55,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i128",
+      "style_family": "f042",
+      "available_at": "2026-02-27",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 120.37,
+        "fabric": "cotton",
+        "price": 74.31,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i129",
+      "style_family": "f043",
+      "available_at": "2026-02-28",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 181.54,
+        "fabric": "wool",
+        "price": 137.91,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i130",
+      "style_family": "f043",
+      "available_at": "2026-02-28",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 163.04,
+        "fabric": "wool",
+        "price": 124.44,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i131",
+      "style_family": "f043",
+      "available_at": "2026-02-28",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 139.16,
+        "fabric": "wool",
+        "price": 128.42,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i132",
+      "style_family": "f044",
+      "available_at": "2026-03-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 207.11,
+        "fabric": "synthetic",
+        "price": 181.75,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i133",
+      "style_family": "f044",
+      "available_at": "2026-03-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 216.5,
+        "fabric": "synthetic",
+        "price": 198.54,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i134",
+      "style_family": "f044",
+      "available_at": "2026-03-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 231.53,
+        "fabric": "synthetic",
+        "price": 201.13,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i135",
+      "style_family": "f045",
+      "available_at": "2026-03-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 113.74,
+        "fabric": "cotton",
+        "price": 76.33,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i136",
+      "style_family": "f045",
+      "available_at": "2026-03-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 105.71,
+        "fabric": "cotton",
+        "price": 72.0,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i137",
+      "style_family": "f045",
+      "available_at": "2026-03-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 116.73,
+        "fabric": "cotton",
+        "price": 87.19,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i138",
+      "style_family": "f046",
+      "available_at": "2026-03-03",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 160.89,
+        "fabric": "wool",
+        "price": 123.37,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i139",
+      "style_family": "f046",
+      "available_at": "2026-03-03",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 173.79,
+        "fabric": "wool",
+        "price": 129.72,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i140",
+      "style_family": "f046",
+      "available_at": "2026-03-03",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 147.82,
+        "fabric": "wool",
+        "price": 132.81,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i141",
+      "style_family": "f047",
+      "available_at": "2026-03-04",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 227.0,
+        "fabric": "synthetic",
+        "price": 199.44,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i142",
+      "style_family": "f047",
+      "available_at": "2026-03-04",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 211.01,
+        "fabric": "synthetic",
+        "price": 180.46,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i143",
+      "style_family": "f047",
+      "available_at": "2026-03-04",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 206.95,
+        "fabric": "synthetic",
+        "price": 201.45,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i144",
+      "style_family": "f048",
+      "available_at": "2026-03-05",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 111.86,
+        "fabric": "cotton",
+        "price": 70.95,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i145",
+      "style_family": "f048",
+      "available_at": "2026-03-05",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 90.58,
+        "fabric": "cotton",
+        "price": 80.54,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i146",
+      "style_family": "f048",
+      "available_at": "2026-03-05",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 87.46,
+        "fabric": "cotton",
+        "price": 86.68,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i147",
+      "style_family": "f049",
+      "available_at": "2026-03-06",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 138.13,
+        "fabric": "wool",
+        "price": 127.9,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i148",
+      "style_family": "f049",
+      "available_at": "2026-03-06",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 155.39,
+        "fabric": "wool",
+        "price": 145.62,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i149",
+      "style_family": "f049",
+      "available_at": "2026-03-06",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 144.83,
+        "fabric": "wool",
+        "price": 146.48,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i150",
+      "style_family": "f050",
+      "available_at": "2026-03-07",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 230.03,
+        "fabric": "synthetic",
+        "price": 189.72,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i151",
+      "style_family": "f050",
+      "available_at": "2026-03-07",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 243.39,
+        "fabric": "synthetic",
+        "price": 193.42,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i152",
+      "style_family": "f050",
+      "available_at": "2026-03-07",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 229.24,
+        "fabric": "synthetic",
+        "price": 191.44,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i153",
+      "style_family": "f051",
+      "available_at": "2026-03-08",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 84.9,
+        "fabric": "cotton",
+        "price": 89.57,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i154",
+      "style_family": "f051",
+      "available_at": "2026-03-08",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 103.33,
+        "fabric": "cotton",
+        "price": 82.7,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i155",
+      "style_family": "f051",
+      "available_at": "2026-03-08",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 109.53,
+        "fabric": "cotton",
+        "price": 68.76,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i156",
+      "style_family": "f052",
+      "available_at": "2026-03-09",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 167.75,
+        "fabric": "wool",
+        "price": 143.07,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i157",
+      "style_family": "f052",
+      "available_at": "2026-03-09",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 169.16,
+        "fabric": "wool",
+        "price": 125.98,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i158",
+      "style_family": "f052",
+      "available_at": "2026-03-09",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 146.85,
+        "fabric": "wool",
+        "price": 145.21,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i159",
+      "style_family": "f053",
+      "available_at": "2026-03-10",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 208.76,
+        "fabric": "synthetic",
+        "price": 182.87,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i160",
+      "style_family": "f053",
+      "available_at": "2026-03-10",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 243.64,
+        "fabric": "synthetic",
+        "price": 192.63,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i161",
+      "style_family": "f053",
+      "available_at": "2026-03-10",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 241.76,
+        "fabric": "synthetic",
+        "price": 182.36,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i162",
+      "style_family": "f054",
+      "available_at": "2026-03-11",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 98.51,
+        "fabric": "cotton",
+        "price": 77.71,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i163",
+      "style_family": "f054",
+      "available_at": "2026-03-11",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 88.84,
+        "fabric": "cotton",
+        "price": 79.01,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i164",
+      "style_family": "f054",
+      "available_at": "2026-03-11",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 94.81,
+        "fabric": "cotton",
+        "price": 83.09,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i165",
+      "style_family": "f055",
+      "available_at": "2026-03-12",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 152.1,
+        "fabric": "wool",
+        "price": 128.78,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i166",
+      "style_family": "f055",
+      "available_at": "2026-03-12",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 164.1,
+        "fabric": "wool",
+        "price": 130.25,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i167",
+      "style_family": "f055",
+      "available_at": "2026-03-12",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 182.15,
+        "fabric": "wool",
+        "price": 133.57,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i168",
+      "style_family": "f056",
+      "available_at": "2026-03-13",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 237.77,
+        "fabric": "synthetic",
+        "price": 193.28,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i169",
+      "style_family": "f056",
+      "available_at": "2026-03-13",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 227.42,
+        "fabric": "synthetic",
+        "price": 197.02,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i170",
+      "style_family": "f056",
+      "available_at": "2026-03-13",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 195.28,
+        "fabric": "synthetic",
+        "price": 198.36,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i171",
+      "style_family": "f057",
+      "available_at": "2026-03-14",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 108.46,
+        "fabric": "cotton",
+        "price": 76.33,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "i172",
+      "style_family": "f057",
+      "available_at": "2026-03-14",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 120.19,
+        "fabric": "cotton",
+        "price": 83.17,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i173",
+      "style_family": "f057",
+      "available_at": "2026-03-14",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 75.42,
+        "fabric": "cotton",
+        "price": 86.03,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i174",
+      "style_family": "f058",
+      "available_at": "2026-03-15",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 184.2,
+        "fabric": "wool",
+        "price": 142.99,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i175",
+      "style_family": "f058",
+      "available_at": "2026-03-15",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 142.66,
+        "fabric": "wool",
+        "price": 145.15,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i176",
+      "style_family": "f058",
+      "available_at": "2026-03-15",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 140.29,
+        "fabric": "wool",
+        "price": 144.01,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "i177",
+      "style_family": "f059",
+      "available_at": "2026-03-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 215.57,
+        "fabric": "synthetic",
+        "price": 185.73,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i178",
+      "style_family": "f059",
+      "available_at": "2026-03-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 222.68,
+        "fabric": "synthetic",
+        "price": 197.28,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "i179",
+      "style_family": "f059",
+      "available_at": "2026-03-16",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 201.62,
+        "fabric": "synthetic",
+        "price": 197.53,
+        "stretch": 1
+      }
+    }
+  ],
+  "labels": [
+    {
+      "label_id": "lab0-0",
+      "item_id": "i000",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab0-1",
+      "item_id": "i000",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab1-0",
+      "item_id": "i001",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab1-1",
+      "item_id": "i001",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab2-0",
+      "item_id": "i002",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab2-1",
+      "item_id": "i002",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab3-0",
+      "item_id": "i003",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab3-1",
+      "item_id": "i003",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab4-0",
+      "item_id": "i004",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab4-1",
+      "item_id": "i004",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab5-0",
+      "item_id": "i005",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab5-1",
+      "item_id": "i005",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab6-0",
+      "item_id": "i006",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab6-1",
+      "item_id": "i006",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab7-0",
+      "item_id": "i007",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab7-1",
+      "item_id": "i007",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab8-0",
+      "item_id": "i008",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab8-1",
+      "item_id": "i008",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab9-0",
+      "item_id": "i009",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab9-1",
+      "item_id": "i009",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab10-0",
+      "item_id": "i010",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab10-1",
+      "item_id": "i010",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab11-0",
+      "item_id": "i011",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab11-1",
+      "item_id": "i011",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab12-0",
+      "item_id": "i012",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab12-1",
+      "item_id": "i012",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab13-0",
+      "item_id": "i013",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab13-1",
+      "item_id": "i013",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab14-0",
+      "item_id": "i014",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab14-1",
+      "item_id": "i014",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab15-0",
+      "item_id": "i015",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab15-1",
+      "item_id": "i015",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab16-0",
+      "item_id": "i016",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab16-1",
+      "item_id": "i016",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab17-0",
+      "item_id": "i017",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab17-1",
+      "item_id": "i017",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab18-0",
+      "item_id": "i018",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab18-1",
+      "item_id": "i018",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab19-0",
+      "item_id": "i019",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab19-1",
+      "item_id": "i019",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab20-0",
+      "item_id": "i020",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab20-1",
+      "item_id": "i020",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab21-0",
+      "item_id": "i021",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab21-1",
+      "item_id": "i021",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab22-0",
+      "item_id": "i022",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab22-1",
+      "item_id": "i022",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab23-0",
+      "item_id": "i023",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab23-1",
+      "item_id": "i023",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab24-0",
+      "item_id": "i024",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab24-1",
+      "item_id": "i024",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab25-0",
+      "item_id": "i025",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab25-1",
+      "item_id": "i025",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab26-0",
+      "item_id": "i026",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab26-1",
+      "item_id": "i026",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab27-0",
+      "item_id": "i027",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab27-1",
+      "item_id": "i027",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab28-0",
+      "item_id": "i028",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab28-1",
+      "item_id": "i028",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab29-0",
+      "item_id": "i029",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab29-1",
+      "item_id": "i029",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab30-0",
+      "item_id": "i030",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab30-1",
+      "item_id": "i030",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab31-0",
+      "item_id": "i031",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab31-1",
+      "item_id": "i031",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab32-0",
+      "item_id": "i032",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab32-1",
+      "item_id": "i032",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab33-0",
+      "item_id": "i033",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab33-1",
+      "item_id": "i033",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab34-0",
+      "item_id": "i034",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab34-1",
+      "item_id": "i034",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab35-0",
+      "item_id": "i035",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab35-1",
+      "item_id": "i035",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab36-0",
+      "item_id": "i036",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab36-1",
+      "item_id": "i036",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab37-0",
+      "item_id": "i037",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab37-1",
+      "item_id": "i037",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab38-0",
+      "item_id": "i038",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab38-1",
+      "item_id": "i038",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab39-0",
+      "item_id": "i039",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab39-1",
+      "item_id": "i039",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab40-0",
+      "item_id": "i040",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab40-1",
+      "item_id": "i040",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab41-0",
+      "item_id": "i041",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab41-1",
+      "item_id": "i041",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab42-0",
+      "item_id": "i042",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab42-1",
+      "item_id": "i042",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab43-0",
+      "item_id": "i043",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab43-1",
+      "item_id": "i043",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab44-0",
+      "item_id": "i044",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab44-1",
+      "item_id": "i044",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab45-0",
+      "item_id": "i045",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab45-1",
+      "item_id": "i045",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab46-0",
+      "item_id": "i046",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab46-1",
+      "item_id": "i046",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab47-0",
+      "item_id": "i047",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab47-1",
+      "item_id": "i047",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab48-0",
+      "item_id": "i048",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab48-1",
+      "item_id": "i048",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab49-0",
+      "item_id": "i049",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab49-1",
+      "item_id": "i049",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab50-0",
+      "item_id": "i050",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab50-1",
+      "item_id": "i050",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab51-0",
+      "item_id": "i051",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab51-1",
+      "item_id": "i051",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab52-0",
+      "item_id": "i052",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab52-1",
+      "item_id": "i052",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab53-0",
+      "item_id": "i053",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab53-1",
+      "item_id": "i053",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab54-0",
+      "item_id": "i054",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab54-1",
+      "item_id": "i054",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab55-0",
+      "item_id": "i055",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab55-1",
+      "item_id": "i055",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab56-0",
+      "item_id": "i056",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab56-1",
+      "item_id": "i056",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab57-0",
+      "item_id": "i057",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab57-1",
+      "item_id": "i057",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab58-0",
+      "item_id": "i058",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab58-1",
+      "item_id": "i058",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab59-0",
+      "item_id": "i059",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab59-1",
+      "item_id": "i059",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab60-0",
+      "item_id": "i060",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab60-1",
+      "item_id": "i060",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab61-0",
+      "item_id": "i061",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab61-1",
+      "item_id": "i061",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab62-0",
+      "item_id": "i062",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab62-1",
+      "item_id": "i062",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab63-0",
+      "item_id": "i063",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab63-1",
+      "item_id": "i063",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab64-0",
+      "item_id": "i064",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab64-1",
+      "item_id": "i064",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab65-0",
+      "item_id": "i065",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab65-1",
+      "item_id": "i065",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab66-0",
+      "item_id": "i066",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab66-1",
+      "item_id": "i066",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab67-0",
+      "item_id": "i067",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab67-1",
+      "item_id": "i067",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab68-0",
+      "item_id": "i068",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab68-1",
+      "item_id": "i068",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab69-0",
+      "item_id": "i069",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab69-1",
+      "item_id": "i069",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab70-0",
+      "item_id": "i070",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab70-1",
+      "item_id": "i070",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab71-0",
+      "item_id": "i071",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab71-1",
+      "item_id": "i071",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab72-0",
+      "item_id": "i072",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab72-1",
+      "item_id": "i072",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab73-0",
+      "item_id": "i073",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab73-1",
+      "item_id": "i073",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab74-0",
+      "item_id": "i074",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab74-1",
+      "item_id": "i074",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab75-0",
+      "item_id": "i075",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab75-1",
+      "item_id": "i075",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab76-0",
+      "item_id": "i076",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab76-1",
+      "item_id": "i076",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab77-0",
+      "item_id": "i077",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab77-1",
+      "item_id": "i077",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab78-0",
+      "item_id": "i078",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab78-1",
+      "item_id": "i078",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab79-0",
+      "item_id": "i079",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab79-1",
+      "item_id": "i079",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab80-0",
+      "item_id": "i080",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab80-1",
+      "item_id": "i080",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab81-0",
+      "item_id": "i081",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab81-1",
+      "item_id": "i081",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab82-0",
+      "item_id": "i082",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab82-1",
+      "item_id": "i082",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab83-0",
+      "item_id": "i083",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab83-1",
+      "item_id": "i083",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab84-0",
+      "item_id": "i084",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab84-1",
+      "item_id": "i084",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab85-0",
+      "item_id": "i085",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab85-1",
+      "item_id": "i085",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab86-0",
+      "item_id": "i086",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab86-1",
+      "item_id": "i086",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab87-0",
+      "item_id": "i087",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab87-1",
+      "item_id": "i087",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab88-0",
+      "item_id": "i088",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab88-1",
+      "item_id": "i088",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab89-0",
+      "item_id": "i089",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab89-1",
+      "item_id": "i089",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab90-0",
+      "item_id": "i090",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab90-1",
+      "item_id": "i090",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab91-0",
+      "item_id": "i091",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab91-1",
+      "item_id": "i091",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab92-0",
+      "item_id": "i092",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab92-1",
+      "item_id": "i092",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab93-0",
+      "item_id": "i093",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab93-1",
+      "item_id": "i093",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab94-0",
+      "item_id": "i094",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab94-1",
+      "item_id": "i094",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab95-0",
+      "item_id": "i095",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab95-1",
+      "item_id": "i095",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab96-0",
+      "item_id": "i096",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab96-1",
+      "item_id": "i096",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab97-0",
+      "item_id": "i097",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab97-1",
+      "item_id": "i097",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab98-0",
+      "item_id": "i098",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab98-1",
+      "item_id": "i098",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab99-0",
+      "item_id": "i099",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab99-1",
+      "item_id": "i099",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab100-0",
+      "item_id": "i100",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab100-1",
+      "item_id": "i100",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab101-0",
+      "item_id": "i101",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab101-1",
+      "item_id": "i101",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab102-0",
+      "item_id": "i102",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab102-1",
+      "item_id": "i102",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab103-0",
+      "item_id": "i103",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab103-1",
+      "item_id": "i103",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab104-0",
+      "item_id": "i104",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab104-1",
+      "item_id": "i104",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab105-0",
+      "item_id": "i105",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab105-1",
+      "item_id": "i105",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab106-0",
+      "item_id": "i106",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab106-1",
+      "item_id": "i106",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab107-0",
+      "item_id": "i107",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab107-1",
+      "item_id": "i107",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab108-0",
+      "item_id": "i108",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab108-1",
+      "item_id": "i108",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab109-0",
+      "item_id": "i109",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab109-1",
+      "item_id": "i109",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab110-0",
+      "item_id": "i110",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab110-1",
+      "item_id": "i110",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab111-0",
+      "item_id": "i111",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab111-1",
+      "item_id": "i111",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab112-0",
+      "item_id": "i112",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab112-1",
+      "item_id": "i112",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab113-0",
+      "item_id": "i113",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab113-1",
+      "item_id": "i113",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab114-0",
+      "item_id": "i114",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab114-1",
+      "item_id": "i114",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab115-0",
+      "item_id": "i115",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab115-1",
+      "item_id": "i115",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab116-0",
+      "item_id": "i116",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab116-1",
+      "item_id": "i116",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab117-0",
+      "item_id": "i117",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab117-1",
+      "item_id": "i117",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab118-0",
+      "item_id": "i118",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab118-1",
+      "item_id": "i118",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab119-0",
+      "item_id": "i119",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab119-1",
+      "item_id": "i119",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab120-0",
+      "item_id": "i120",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab120-1",
+      "item_id": "i120",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab121-0",
+      "item_id": "i121",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab121-1",
+      "item_id": "i121",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab122-0",
+      "item_id": "i122",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab122-1",
+      "item_id": "i122",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab123-0",
+      "item_id": "i123",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab123-1",
+      "item_id": "i123",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab124-0",
+      "item_id": "i124",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab124-1",
+      "item_id": "i124",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab125-0",
+      "item_id": "i125",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab125-1",
+      "item_id": "i125",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab126-0",
+      "item_id": "i126",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab126-1",
+      "item_id": "i126",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab127-0",
+      "item_id": "i127",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab127-1",
+      "item_id": "i127",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab128-0",
+      "item_id": "i128",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab128-1",
+      "item_id": "i128",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab129-0",
+      "item_id": "i129",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab129-1",
+      "item_id": "i129",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab130-0",
+      "item_id": "i130",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab130-1",
+      "item_id": "i130",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab131-0",
+      "item_id": "i131",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab131-1",
+      "item_id": "i131",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab132-0",
+      "item_id": "i132",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab132-1",
+      "item_id": "i132",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab133-0",
+      "item_id": "i133",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab133-1",
+      "item_id": "i133",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab134-0",
+      "item_id": "i134",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab134-1",
+      "item_id": "i134",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab135-0",
+      "item_id": "i135",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab135-1",
+      "item_id": "i135",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab136-0",
+      "item_id": "i136",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab136-1",
+      "item_id": "i136",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab137-0",
+      "item_id": "i137",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab137-1",
+      "item_id": "i137",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab138-0",
+      "item_id": "i138",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab138-1",
+      "item_id": "i138",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab139-0",
+      "item_id": "i139",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab139-1",
+      "item_id": "i139",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab140-0",
+      "item_id": "i140",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab140-1",
+      "item_id": "i140",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab141-0",
+      "item_id": "i141",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab141-1",
+      "item_id": "i141",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab142-0",
+      "item_id": "i142",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab142-1",
+      "item_id": "i142",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab143-0",
+      "item_id": "i143",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab143-1",
+      "item_id": "i143",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab144-0",
+      "item_id": "i144",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab144-1",
+      "item_id": "i144",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab145-0",
+      "item_id": "i145",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab145-1",
+      "item_id": "i145",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab146-0",
+      "item_id": "i146",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab146-1",
+      "item_id": "i146",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab147-0",
+      "item_id": "i147",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab147-1",
+      "item_id": "i147",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab148-0",
+      "item_id": "i148",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab148-1",
+      "item_id": "i148",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab149-0",
+      "item_id": "i149",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab149-1",
+      "item_id": "i149",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab150-0",
+      "item_id": "i150",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab150-1",
+      "item_id": "i150",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab151-0",
+      "item_id": "i151",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab151-1",
+      "item_id": "i151",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab152-0",
+      "item_id": "i152",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab152-1",
+      "item_id": "i152",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab153-0",
+      "item_id": "i153",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab153-1",
+      "item_id": "i153",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab154-0",
+      "item_id": "i154",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab154-1",
+      "item_id": "i154",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab155-0",
+      "item_id": "i155",
+      "annotator_id": "a0",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab155-1",
+      "item_id": "i155",
+      "annotator_id": "a1",
+      "label": "rare",
+      "revision": 1,
+      "known_at": "2026-04-06"
+    },
+    {
+      "label_id": "lab156-0",
+      "item_id": "i156",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab156-1",
+      "item_id": "i156",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-07"
+    },
+    {
+      "label_id": "lab157-0",
+      "item_id": "i157",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab157-1",
+      "item_id": "i157",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-08"
+    },
+    {
+      "label_id": "lab158-0",
+      "item_id": "i158",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab158-1",
+      "item_id": "i158",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-09"
+    },
+    {
+      "label_id": "lab159-0",
+      "item_id": "i159",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab159-1",
+      "item_id": "i159",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-10"
+    },
+    {
+      "label_id": "lab160-0",
+      "item_id": "i160",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab160-1",
+      "item_id": "i160",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-11"
+    },
+    {
+      "label_id": "lab161-0",
+      "item_id": "i161",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab161-1",
+      "item_id": "i161",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-12"
+    },
+    {
+      "label_id": "lab162-0",
+      "item_id": "i162",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab162-1",
+      "item_id": "i162",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-13"
+    },
+    {
+      "label_id": "lab163-0",
+      "item_id": "i163",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab163-1",
+      "item_id": "i163",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-14"
+    },
+    {
+      "label_id": "lab164-0",
+      "item_id": "i164",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab164-1",
+      "item_id": "i164",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-15"
+    },
+    {
+      "label_id": "lab165-0",
+      "item_id": "i165",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab165-1",
+      "item_id": "i165",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-16"
+    },
+    {
+      "label_id": "lab166-0",
+      "item_id": "i166",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab166-1",
+      "item_id": "i166",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-17"
+    },
+    {
+      "label_id": "lab167-0",
+      "item_id": "i167",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab167-1",
+      "item_id": "i167",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-18"
+    },
+    {
+      "label_id": "lab168-0",
+      "item_id": "i168",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab168-1",
+      "item_id": "i168",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-19"
+    },
+    {
+      "label_id": "lab169-0",
+      "item_id": "i169",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab169-1",
+      "item_id": "i169",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-20"
+    },
+    {
+      "label_id": "lab170-0",
+      "item_id": "i170",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab170-1",
+      "item_id": "i170",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-21"
+    },
+    {
+      "label_id": "lab171-0",
+      "item_id": "i171",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab171-1",
+      "item_id": "i171",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-22"
+    },
+    {
+      "label_id": "lab172-0",
+      "item_id": "i172",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab172-1",
+      "item_id": "i172",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-23"
+    },
+    {
+      "label_id": "lab173-0",
+      "item_id": "i173",
+      "annotator_id": "a0",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab173-1",
+      "item_id": "i173",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-24"
+    },
+    {
+      "label_id": "lab174-0",
+      "item_id": "i174",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab174-1",
+      "item_id": "i174",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-25"
+    },
+    {
+      "label_id": "lab175-0",
+      "item_id": "i175",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab175-1",
+      "item_id": "i175",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "lab176-0",
+      "item_id": "i176",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab176-1",
+      "item_id": "i176",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "lab177-0",
+      "item_id": "i177",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab177-1",
+      "item_id": "i177",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "lab178-0",
+      "item_id": "i178",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab178-1",
+      "item_id": "i178",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-04"
+    },
+    {
+      "label_id": "lab179-0",
+      "item_id": "i179",
+      "annotator_id": "a0",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab179-1",
+      "item_id": "i179",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 1,
+      "known_at": "2026-04-05"
+    },
+    {
+      "label_id": "lab0-0",
+      "item_id": "i000",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 2,
+      "known_at": "2026-08-09"
+    }
+  ]
+}
