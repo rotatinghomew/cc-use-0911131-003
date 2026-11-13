@@ -1,0 +1,107 @@
+{
+  "seed": 7,
+  "asset_revision": "asset-too-small",
+  "final_cutoff": "2026-06-30",
+  "review_budget": 4,
+  "confirmed_item_ids": [],
+  "items": [
+    {
+      "item_id": "s00",
+      "style_family": "g0",
+      "available_at": "2026-02-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 100.0,
+        "fabric": "cotton",
+        "price": 80.0,
+        "stretch": 0
+      }
+    },
+    {
+      "item_id": "s01",
+      "style_family": "g0",
+      "available_at": "2026-02-01",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 104.0,
+        "fabric": "cotton",
+        "price": 82.0,
+        "stretch": null
+      }
+    },
+    {
+      "item_id": "s02",
+      "style_family": "g1",
+      "available_at": "2026-02-02",
+      "withdrawn_at": "2026-05-01",
+      "features": {
+        "weight": 160.0,
+        "fabric": "wool",
+        "price": 130.0,
+        "stretch": 1
+      }
+    },
+    {
+      "item_id": "s03",
+      "style_family": "g1",
+      "available_at": "2026-02-02",
+      "withdrawn_at": null,
+      "features": {
+        "weight": 158.0,
+        "fabric": "wool",
+        "price": 128.0,
+        "stretch": 1
+      }
+    }
+  ],
+  "labels": [
+    {
+      "label_id": "l00a",
+      "item_id": "s00",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "l00b",
+      "item_id": "s00",
+      "annotator_id": "a1",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-01"
+    },
+    {
+      "label_id": "l01a",
+      "item_id": "s01",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "l01b",
+      "item_id": "s01",
+      "annotator_id": "a1",
+      "label": "casual",
+      "revision": 1,
+      "known_at": "2026-04-02"
+    },
+    {
+      "label_id": "l03a",
+      "item_id": "s03",
+      "annotator_id": "a0",
+      "label": "formal",
+      "revision": 1,
+      "known_at": "2026-04-03"
+    },
+    {
+      "label_id": "l03late",
+      "item_id": "s03",
+      "annotator_id": "a1",
+      "label": "sport",
+      "revision": 2,
+      "known_at": "2026-07-15"
+    }
+  ]
+}
